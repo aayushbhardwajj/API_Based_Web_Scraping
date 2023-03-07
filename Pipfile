@@ -8,10 +8,10 @@ selenium = "*"
 matplotlib = "*"
 statsmodels = "*"
 seaborn = "*"
-sklearn = "*"
 standardscaler = "*"
 plotly = "*"
 nbformat = "*"
+linearmodels = "*"
 
 [dev-packages]
 ipykernel = "*"
