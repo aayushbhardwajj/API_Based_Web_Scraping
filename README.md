@@ -20,3 +20,13 @@
     - code loops through the first 500 items of the 'assetsname' column in a DataFrame named 'collection_df'.
     - create a empty list named [all_nft]
     - returned nfts are appended to a list called all_nfts.
+
+## Econometrics
+
+    - checking the correlation matrix for the entire dataset.
+    - checking Relationship between Sale price and Purchases.
+    - checking Relationship between Discount and Purchases.
+    - cheking the OLS relationship for the matrix.
+    - using econometric methods:
+      - OLS
+      - 2SLS
