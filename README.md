@@ -2,9 +2,9 @@
 
 ```python
 A Jupyter Notebooks that has two scrpit:
-		1) collection_asset_.ipynb
-		    a) Scrpit for NFT collections
-		    b) Scrpit for Assets of NFT collections
+	1) collection_asset_.ipynb
+		a) Scrpit for NFT collections
+		b) Scrpit for Assets of NFT collections
 ```
 
 ## Disclaimer
