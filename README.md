@@ -1,9 +1,9 @@
 # NFT Scraper
 
-A Jupyter Notebooks that has two scrpit:
+A Jupyter Notebooks that has two Script:
 	1) collection_asset_.ipynb
-		a) Scrpit for NFT collections
-		b) Scrpit for Assets of NFT collections
+		a) Script for NFT collections
+		b) Script for Assets of NFT collections
 
 ## Disclaimer
 
@@ -70,9 +70,9 @@ Prerequisites: Python installed and established a virtual environment with requi
 
 Overview: This script scrapes assets of NFT collections data by making a POST request to the API endpoint. Using the specific payload to search on the web page.
 
-IMPORTANT NOTE: The Scrpit was running parallel to reduce the time to get the data.
+IMPORTANT NOTE: The Script was running parallel to reduce the time to get the data.
 
-Few changes in the scrpit:
+Few changes in the script:
 
 - Name of .csv file is getting change
     
