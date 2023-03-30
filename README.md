@@ -153,5 +153,7 @@ Prerequisites: create file csv file [collection_assets_batch_(i).csv]. Take in a
     ```python
     dump_csv(nfts)
     ```
-    
-6. Run the cell to get the output.
+
+6. .csv file is in the output directory
+   
+7. Run the cell to get the output.
