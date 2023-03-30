@@ -1,9 +1,9 @@
 # NFT Scraper
 
 A Jupyter Notebooks that has two Script:
-	1) collection_asset_.ipynb
-		a) Script for NFT collections
-		b) Script for Assets of NFT collections
+1. collection_asset_.ipynb
+   - Script for NFT collections
+   - Script for Assets of NFT collections
 
 ## Disclaimer
 
